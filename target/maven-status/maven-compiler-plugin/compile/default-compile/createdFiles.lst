@@ -1,0 +1,5 @@
+Main.class
+com/template/guice/CommentServiceImpl.class
+com/template/guice/CommentDao.class
+com/template/guice/CommentDaoImpl.class
+com/template/guice/CommentService.class
