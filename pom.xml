@@ -22,7 +22,7 @@
 
     <properties>
         <version.junit>4.12</version.junit>
-        <version.guice>4.1.0</version.guice>
+        <version.guice>4.2.3</version.guice>
         <version.guava>22.0</version.guava>
         <version.jsr305>3.0.2</version.jsr305>
     </properties>
